@@ -115,8 +115,11 @@ C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\b
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\bin\Microsoft.AI.Web.xml
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.csprojAssemblyReference.cache
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.csproj.CoreCompileInputs.cache
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.csproj.CopyComplete
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.dll
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.pdb
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.csprojAssemblyReference.cache
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.Migrations.UpdateContext.resources
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.csproj.GenerateResource.cache
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Trasher\Trasher\Trasher\obj\Debug\Trasher.Migrations.AddController.resources

@@ -12,11 +12,12 @@ namespace Trasher.DAL
     {
         public CompanyContext() : base("CompanyContext")
         {
-
+            Database.SetInitializer<CompanyContext>(new CompanyInitializer());
         }
 
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<PickupDay> PickupDays { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
